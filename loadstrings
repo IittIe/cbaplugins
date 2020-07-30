@@ -1,3 +1,6 @@
 sans plugin [-] ~ loadstring(game:HttpGet("https://raw.githubusercontent.com/IittIe/n1bus-cba-plugins/master/sans__animation_plugin",true))()
 cmd - "sans"
 ---------------------------------------------------------------------------------------------------------------------------------------------
+goopie animation plguin [-] ~ loadstring(game:HttpGet("https://raw.githubusercontent.com/IittIe/n1bus-cba-plugins/master/goopie_anim_plugin",true))()
+cmd - "goopie"
+---------------------------------------------------------------------------------------------------------------------------------------------
